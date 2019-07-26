@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: WP Sync DB Media Files
+Plugin Name: WP Sync DB NS Media Files
 Description: An extension of WP Sync DB that allows the migration of media files.
-Author: Sean Lang
-Version: 1.1.4b1
-Author URI: http://slang.cx
+Author: Nuno Sarmento
+Version: 1.2
+Author URI: https://www.nuno-sarmento.com
 GitHub Plugin URI: wp-sync-db/wp-sync-db-media-files
 Network: True
 */
